@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivs-math
+- 👋 Hi, I’m **Iván Soto**
 - 👀 I’m interested in data science and mathematics
 - 📫 How to reach me: soto.guerra46@gmail.com
 
